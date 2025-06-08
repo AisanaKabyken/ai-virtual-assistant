@@ -1,0 +1,7 @@
+/*
+This file sets up Tailwind CSS
+These directives tell Tailwind to inject its base styles, components and utility classes
+*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
